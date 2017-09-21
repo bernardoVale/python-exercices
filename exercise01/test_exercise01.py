@@ -1,6 +1,7 @@
 import unittest
 from exercise01 import check_linux_version
 
+
 class TestExercise01(unittest.TestCase):
 
     def test_check_linux_version(self):
